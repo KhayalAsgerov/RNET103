@@ -1,1 +1,1 @@
-"Cde Academy Github Dersleri" 
+"Code Academy Github Dersleri" 
